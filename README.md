@@ -13,7 +13,7 @@ I'm currently study at CAMT CMU: Software Engineer<br>I'm currently learning abo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IngM5058&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IngM5058&limit=5&theme=radical&combine_all_yearly_contributions=true)
