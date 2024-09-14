@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently study at CAMT CMU: Software Engineer<br>I'm currently learning about Frontend development!
+📔I'm currently study at CAMT CMU: Software Engineer<br>
+👨‍💻I'm currently learning about Frontend development!
 
 
 ## 🌐 Socials:
